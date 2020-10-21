@@ -1,7 +1,7 @@
 # user input fields
 money_in_account = float(input("Money in account:"))
 amount_of_years = int(input("Amount of years:"))
-yearly_interest = float(input("Amount of interest in a year in % (1.xx):"))
+yearly_interest = float(input("Amount of interest in a year in % (1.xxx), the second decimal is a single percent:"))
 
 # Commented out for simplicity reasons
 # half_yearly_interest = 1.005
